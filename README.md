@@ -3,7 +3,7 @@
 A simple CSS Grid layout recreation of **Piet Mondrian’s** famous abstract art style.  
 This project uses pure **HTML** and **CSS** (no JavaScript) to create a colorful, geometric composition inspired by Mondrian's paintings.
 
-🌐 **Live Demo**: [View the Mondrian Project](https://catheringino.github.io/Mondrian-project/)
+🌐 **Live Demo**: [View the Mondrian Project](https://catheringino.github.io/MondrianProject/)
 
 ---
 
@@ -27,7 +27,7 @@ This project uses pure **HTML** and **CSS** (no JavaScript) to create a colorful
 ---
 
 ## 🚀 How to Use
-1. Open the [Mondrian Project](https://catheringino.github.io/Mondrian-project/).
+1. Open the [Mondrian Project](https://catheringino.github.io/MondrianProject/).
 2. Admire the clean, balanced composition.
 3. Experiment with the CSS to create your own Mondrian-inspired design.
 
@@ -37,9 +37,9 @@ This project uses pure **HTML** and **CSS** (no JavaScript) to create a colorful
 If you want to run this project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/CatherinGino/Mondrian-project.git
+git clone https://github.com/CatherinGino/MondrianProject.git
 
 # Open the folder
-cd Mondrian-project
+cd MondrianProject
 
 # Open index.html in your browser
